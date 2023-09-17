@@ -6,7 +6,7 @@
 
 Welcome to my SQL projects portfolio! This repository showcases a collection of SQL queries and projects demonstrating my proficiency in leveraging SQL to analyze and derive insights from various datasets. Let's take a closer look at what's inside:
 
-### 📁 Project Structure:
+### 📁 Project Structure: DATA EXPLORATION
 
 - **Query Set 1 - Basic SQL Queries**:
   A set of fundamental SQL queries showcasing skills in data retrieval, filtering, and ordering.
@@ -40,6 +40,5 @@ I am continuously exploring new SQL challenges and data analysis opportunities. 
 
 
 
-Feel free to reach out for collaboration, discussion, or any questions related to SQL or data analysis. Let's harness the power of data through SQL!
 
 ---
