@@ -14,18 +14,24 @@ Query Set 3 - Advanced Analytical Queries:
 Analytical queries presenting advanced concepts like Common Table Expressions (CTE) and advanced grouping for insightful data analysis.
 
 🚀 Highlighted Projects:
+
 Customer Analysis and Artist Invitations:
 Analyzing customer purchases and inviting top artists based on rock music sales.
 
 Track Length Analysis:
+
 Exploring track lengths and identifying songs longer than the average.
 
 Customer Spending and Popular Genres:
+
 Analyzing customer spending and determining popular music genres by country.
 
 🛠️ Tools and Technologies:
+
 SQL (Structured Query Language)
+
 Database Systems: PostgreSQL
+
 Concepts: Joins, Subqueries, Common Table Expressions (CTE), Data Aggregation
 
 🌱 Future Endeavors:
